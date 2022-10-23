@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "281f42cfbf9b593a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b0485f30a4be16c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a75e0541afacf24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Дискра/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5c3565004d6af1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6649c9d157e64a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42066a4f11c44e12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d80a2748dc8ffd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "связные",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e42596243ab4dd4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "51c1cc02d152de22",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8fc52c3ecea7f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775e4331d24431ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ИТМО/Дискра/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b53cf14044a4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ИТМО/Дискра/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cbc418baa28b733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81bd78e6c1540732",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ИТМО/Дискра/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9a75e0541afacf24",
+  "lastOpenFiles": [
+    "ИТМО/Дискра/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md",
+    "ИТМО/Дискра/Бинарные отношения/!_! Способы упорядочить множества.md",
+    "ИТМО/Дискра/Бинарные отношения/Термины для коллока/Отношение строгого порядка.md",
+    "ИТМО/Дискра/Бинарные отношения/!_! Отношения в б.о.md",
+    "ИТМО/Дискра/Бинарные отношения/Термины для коллока/Разность.md",
+    "ИТМО/Дискра/Бинарные отношения/Термины для коллока/Отношение нестрогого порядка.md",
+    "ИТМО/Дискра/Бинарные отношения/Термины для коллока/Теорема про разбиение и класса эквивалентности.md",
+    "Без названия.md",
+    "ИТМО/Дискра/Бинарные отношения/Термины для коллока/Линейно упорядоченное множество.md",
+    "ИТМО/Алгосы/Сортировки все файлы/!_! Сортировки.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Настройка репозитория (git config --global user.email "...")

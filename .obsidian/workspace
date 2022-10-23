@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "281f42cfbf9b593a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebdd57de0f0d1a37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Лаба 3 гит (гит кракен).md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5c3565004d6af1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6649c9d157e64a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42066a4f11c44e12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d80a2748dc8ffd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e42596243ab4dd4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "51c1cc02d152de22",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8fc52c3ecea7f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775e4331d24431ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лаба 3 гит (гит кракен).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b53cf14044a4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лаба 3 гит (гит кракен).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cbc418baa28b733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81bd78e6c1540732",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лаба 3 гит (гит кракен).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ebdd57de0f0d1a37",
+  "lastOpenFiles": [
+    "ИТМО/Разраб ПО/Отчет по лабораторной работе 2.md",
+    "Лаба 3 гит (гит кракен).md",
+    "ИТМО/Разраб ПО/Лаба 2 гит (оформить репо и кинуть другому пулл реквест).md",
+    "ИТМО/Разраб ПО/Лабы Git.md",
+    "ИТМО/Алгосы/Quick sort (Разбиение Хоара).md",
+    "ИТМО/Алгосы/Алгоритм quick sort (Ломуто + Хоара).md",
+    "ИТМО/Алгосы/Код для qiuck sort Ломуто с комментариями.md",
+    "ИТМО/Алгосы/Сортировки.md",
+    "ИТМО/Алгосы/Merge sort.md",
+    "ИТМО/Алгосы/Quick sort (Разбиение Ломуто).md"
+  ]
+}

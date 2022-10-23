@@ -1,0 +1,1 @@
+ вместо git checkout -b ([[git checkout lesson 1]])
