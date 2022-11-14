@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37d898b4552e42e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линал/Лекции/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы лекции/Heap.md",
+                "file": "Линал/Лекции/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы лекции/Heap.md",
+                "file": "Линал/Лекции/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы лекции/Heap.md"
+                "file": "Линал/Лекции/Untitled.md"
               }
             }
           }
@@ -150,10 +163,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "5292dc3366e6997b",
+  "active": "37d898b4552e42e0",
   "lastOpenFiles": [
-    "Куча.md",
     "ИТМО/Алгосы/Алгосы лекции/Heap.md",
+    "Куча.md",
     "ИТМО/Алгосы/Алгосы лекции/Лекция. Логический стек. Пирамида (куча). Пирамидальная сортировка.md",
     "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Сорт подсчетом/Counting sort (сортировка подсчетом).md",
     "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Insertion sort/Устойчивость insertion sort.md",
