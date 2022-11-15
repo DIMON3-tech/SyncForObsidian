@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5af4b43c6bd28c5",
+        "id": "391f59991996130d",
         "type": "tabs",
         "children": [
           {
-            "id": "54cf8643de998ee4",
+            "id": "71110858ce298751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы лекции/Лекция. Логический стек. Пирамида (куча). Пирамидальная сортировка.md",
+                "file": "Линал/Лекции/Собственные векторы и собственные числа. Практика + лекция.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,90 +21,12 @@
             }
           },
           {
-            "id": "5292dc3366e6997b",
+            "id": "9e3717066de6e0ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы лекции/Heap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d898b4552e42e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линал/Лекции/Линейные пространства. Базис. Лекция.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "649ea483c4162253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линал/Лекции/Линейные пространства. Базис. Лекция.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0ac53a5dd39c55d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линал/Лекции/Евклидово пространство. Лекция.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d949ba9c559b838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Лекции/Уравнение касательной и нормали к графику функции.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbb3bdcf6b037f14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Лекции/Французские теоремы о дифференцируемых функциях.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af84a98e9d43ea91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Merge sort/Merge sort.md",
+                "file": "Матан/Лекции/Исследование графика функции. 2 лекции.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 330.5
   },
   "right": {
     "id": "51c1cc02d152de22",
@@ -178,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Merge sort/Merge sort.md",
+                "file": "Матан/Лекции/Исследование графика функции. 2 лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Merge sort/Merge sort.md",
+                "file": "Матан/Лекции/Исследование графика функции. 2 лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Merge sort/Merge sort.md"
+                "file": "Матан/Лекции/Исследование графика функции. 2 лекции.md"
               }
             }
           }
@@ -229,17 +151,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "af84a98e9d43ea91",
+  "active": "9e3717066de6e0ee",
   "lastOpenFiles": [
-    "Линал/Лекции/Линейные пространства. Базис. Лекция.md",
-    "Линал/Лекции/!_! Ссылки на все лекции по линалу.md",
-    "Матан/Лекции/!_! Ссылки на все лекции по матану.md",
-    "Матан/Лекции/Французские теоремы о дифференцируемых функциях.md",
-    "Матан/Лекции/Уравнение касательной и нормали к графику функции.md",
-    "Линал/Лекции/Евклидово пространство. Лекция.md",
     "Линал/Лекции/Собственные векторы и собственные числа. Практика + лекция.md",
     "ИТМО/Алгосы/Алгосы лекции/Heap.md",
-    "Куча.md",
-    "ИТМО/Алгосы/Алгосы лекции/Лекция. Логический стек. Пирамида (куча). Пирамидальная сортировка.md"
+    "Линал/Лекции/Линейные пространства. Базис. Лекция.md",
+    "Линал/Лекции/Евклидово пространство. Лекция.md",
+    "Матан/Лекции/Уравнение касательной и нормали к графику функции.md",
+    "Матан/Лекции/Французские теоремы о дифференцируемых функциях.md",
+    "ИТМО/Алгосы/Алгосы конспекты/Сортировки все файлы/Merge sort/Merge sort.md",
+    "Линал/Лекции/!_! Ссылки на все лекции по линалу.md",
+    "Матан/Лекции/!_! Ссылки на все лекции по матану.md",
+    "Куча.md"
   ]
 }
