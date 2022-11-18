@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "2c63c192f1745fc5",
+            "id": "115e5f3b2ac1372d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Линал/Лекции/Линейные пространства.md",
+                "file": "Кольца.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66e24bc9a58eeffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Поле.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,6 +48,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "576258fb4a3cbe14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f3fec0a20a037af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Линал/Лекции/Кольца и поля. Лекции нет, только доп.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Матрица_перехода",
+                "query": "#поля",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Линал/Лекции/Линейные пространства.md",
+                "file": "Кольца.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Линал/Лекции/Линейные пространства.md",
+                "file": "Кольца.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Линал/Лекции/Линейные пространства.md"
+                "file": "Кольца.md"
               }
             }
           }
@@ -151,17 +184,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2c63c192f1745fc5",
+  "active": "115e5f3b2ac1372d",
   "lastOpenFiles": [
-    "ИТМО/Линал/Лекции/Линейные пространства. Базис. Лекция.md",
-    "ИТМО/Линал/Лекции/Линейные пространства.md",
+    "Поле.md",
+    "Кольца.md",
     "ИТМО/Линал/Типовики/Доп кастомные вопросы к типовику.md",
-    "ИТМО/Прога/Вопросы по проге, на которые я не знаю ответа.md",
-    "ИТМО/Линал/Лекции/Метод Гаусса (решением опред и неопред систем). Частное, общее решение системы.md",
-    "ИТМО/Линал/Лекции/СЛАУ.md",
-    "ИТМО/Линал/Лекции/Ранг и методы его нахождения. Теорема Лапласса.md",
+    "ИТМО/Линал/Лекции/Кольца и поля. Лекции нет, только доп.md",
     "ИТМО/Линал/Лекции/Матрицы. Определитель. Миноры. Алг.дополнения Лекция + практика.md",
-    "ИТМО/Линал/Лекции/Линейно зависимые и назависимые ряды матрицы и определителя. Лекция.md",
-    "ИТМО/Линал/Лекции/Группы. Лекция + доп..md"
+    "Транспонирование.md",
+    "Биекция.md",
+    "Инъекция.md",
+    "ИТМО/Линал/Лекции/Группы. Лекция + доп..md",
+    "Сюрьекция.md"
   ]
 }
