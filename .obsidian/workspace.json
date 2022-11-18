@@ -6,14 +6,15 @@
       {
         "id": "391f59991996130d",
         "type": "tabs",
+        "dimension": 48.28431372549019,
         "children": [
           {
-            "id": "3e93c24b392fbd35",
+            "id": "9be4b8f70fa45b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Линал/Типовики/Доп кастомные вопросы к типовику.md",
+                "file": "ИТМО/Линал/Типовики/!_! Доп кастомные вопросы к типовику.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +22,12 @@
             }
           },
           {
-            "id": "115e5f3b2ac1372d",
+            "id": "2a2db78aa167d61c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кольца.md",
+                "file": "Теорема Кронекера Каппели.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +35,12 @@
             }
           },
           {
-            "id": "66e24bc9a58eeffb",
+            "id": "d07059ad98547675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поле.md",
+                "file": "Теорема определителя.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,6 +53,7 @@
       {
         "id": "576258fb4a3cbe14",
         "type": "tabs",
+        "dimension": 51.71568627450981,
         "children": [
           {
             "id": "5f3fec0a20a037af",
@@ -65,8 +67,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3709753d625c39e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Линал/Лекции/Матрицы. Определитель. Миноры. Алг.дополнения Лекция + практика.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513ddf2cc47d4464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Линал/Лекции/Метод Гаусса (решением опред и неопред систем). Частное, общее решение системы.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#поля",
+                "query": "капе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кольца.md",
+                "file": "Теорема Кронекера Каппели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кольца.md",
+                "file": "Теорема Кронекера Каппели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кольца.md"
+                "file": "Теорема Кронекера Каппели.md"
               }
             }
           }
@@ -184,17 +213,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "115e5f3b2ac1372d",
+  "active": "2a2db78aa167d61c",
   "lastOpenFiles": [
+    "ИТМО/Линал/Типовики/!_! Доп кастомные вопросы к типовику.md",
+    "Теорема Кронекера Каппели.md",
+    "ИТМО/Линал/Лекции/Метод Гаусса (решением опред и неопред систем). Частное, общее решение системы.md",
+    "Теорема определителя.md",
+    "Что такое минор.md",
+    "ИТМО/Линал/Лекции/Матрицы. Определитель. Миноры. Алг.дополнения Лекция + практика.md",
     "Поле.md",
     "Кольца.md",
-    "ИТМО/Линал/Типовики/Доп кастомные вопросы к типовику.md",
-    "ИТМО/Линал/Лекции/Кольца и поля. Лекции нет, только доп.md",
-    "ИТМО/Линал/Лекции/Матрицы. Определитель. Миноры. Алг.дополнения Лекция + практика.md",
-    "Транспонирование.md",
-    "Биекция.md",
-    "Инъекция.md",
-    "ИТМО/Линал/Лекции/Группы. Лекция + доп..md",
-    "Сюрьекция.md"
+    "Перечислить свойства определителей матрицы.md",
+    "Что такое алгебраическое дополнение.md"
   ]
 }
