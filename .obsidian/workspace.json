@@ -22,25 +22,12 @@
             }
           },
           {
-            "id": "2a2db78aa167d61c",
+            "id": "19b0ad982fd580b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теорема Кронекера Каппели.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d07059ad98547675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорема определителя.md",
+                "file": "Когда определитель равен нулю.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,12 +43,12 @@
         "dimension": 51.71568627450981,
         "children": [
           {
-            "id": "5f3fec0a20a037af",
+            "id": "e4f88c77dfbfd386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Линал/Лекции/Кольца и поля. Лекции нет, только доп.md",
+                "file": "ИТМО/Линал/Лекции/СЛАУ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,7 +56,7 @@
             }
           },
           {
-            "id": "3709753d625c39e9",
+            "id": "e6b99ab0fd41df86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,22 +67,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "513ddf2cc47d4464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Линал/Лекции/Метод Гаусса (решением опред и неопред систем). Частное, общее решение системы.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "капе",
+                "query": "#опреде",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Теорема Кронекера Каппели.md",
+                "file": "Когда определитель равен нулю.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Теорема Кронекера Каппели.md",
+                "file": "Когда определитель равен нулю.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Теорема Кронекера Каппели.md"
+                "file": "Когда определитель равен нулю.md"
               }
             }
           }
@@ -213,17 +187,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2a2db78aa167d61c",
+  "active": "19b0ad982fd580b0",
   "lastOpenFiles": [
     "ИТМО/Линал/Типовики/!_! Доп кастомные вопросы к типовику.md",
+    "ИТМО/Линал/Лекции/Матрицы. Определитель. Миноры. Алг.дополнения Лекция + практика.md",
+    "Когда определитель равен нулю.md",
+    "Опиши метод Крамера.md",
     "Теорема Кронекера Каппели.md",
+    "ИТМО/Линал/Лекции/СЛАУ.md",
     "ИТМО/Линал/Лекции/Метод Гаусса (решением опред и неопред систем). Частное, общее решение системы.md",
     "Теорема определителя.md",
     "Что такое минор.md",
-    "ИТМО/Линал/Лекции/Матрицы. Определитель. Миноры. Алг.дополнения Лекция + практика.md",
-    "Поле.md",
-    "Кольца.md",
-    "Перечислить свойства определителей матрицы.md",
-    "Что такое алгебраическое дополнение.md"
+    "Поле.md"
   ]
 }
