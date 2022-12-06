@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f7deba9899161a2",
+        "id": "2baa0d9afbf660cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d97da23eb5709697",
+            "id": "e7899d54d6803df2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,17 +128,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d97da23eb5709697",
+  "active": "e7899d54d6803df2",
   "lastOpenFiles": [
+    "Брейншторм по теме векторы/Ссылки на все статьи по теме векторы.md",
+    "ИТМО/Дискра/Дискра конспекты/Бинарные отношения/Термины для коллока/Закон коммутативность.md",
+    "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
     "ИТМО/Алгосы/Алгосы лекции/Красно-черные деревья. Дерево отрезков. Декартово дерево.md",
     "ИТМО/Алгосы/!_! Коллок алгосы.md",
     "ИТМО/Алгосы/Оценка по времени и памяти Counting sort.md",
     "ИТМО/Алгосы/Оценка по времени и памяти Quicksort Ломуто.md",
     "ИТМО/Алгосы/Оценка по времени и памяти Quicksort Хоара.md",
     "ИТМО/Алгосы/Оценка по памяти merge sort.md",
-    "ИТМО/Алгосы/Stack на одно и двусвязном списке.md",
-    "ИТМО/Алгосы/Queue на одно и двусвязном списке.md",
-    "ИТМО/Алгосы/Оценка по времени merge sort.md",
-    "ИТМО/Линал/Несовместная СЛАУ.md"
+    "ИТМО/Алгосы/Stack на одно и двусвязном списке.md"
   ]
 }
