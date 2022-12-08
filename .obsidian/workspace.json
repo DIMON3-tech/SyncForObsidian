@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7899d54d6803df2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "07073b764253b108",
             "type": "leaf",
             "state": {
@@ -29,12 +21,12 @@
             }
           },
           {
-            "id": "5bbc17059346c2ba",
+            "id": "9e98ec7fafbd48cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сортировка слиянием.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,12 +34,12 @@
             }
           },
           {
-            "id": "35ce96fbcf13f131",
+            "id": "4a822acb58dd3e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Описание 2 части алгоритма.md",
+                "file": "Как считать высоту поддеревьев.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,25 +47,12 @@
             }
           },
           {
-            "id": "de6fa71fac08205f",
+            "id": "d8a9e25501c57e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Код сортировки слиянием.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c668b8ddc71ebc1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Описание 1 части алгоритма.md",
+                "file": "Что значит бинарное дерево.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Описание 2 части алгоритма.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Описание 2 части алгоритма.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Описание 2 части алгоритма.md"
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md"
               }
             }
           }
@@ -198,17 +177,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "35ce96fbcf13f131",
+  "active": "9e98ec7fafbd48cd",
   "lastOpenFiles": [
-    "Сортировка слиянием.md",
-    "Код сортировки слиянием.md",
-    "Описание 1 части алгоритма.md",
+    "Как считать высоту поддеревьев.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+    "Что значит бинарное дерево.md",
+    "Что такое AVL дерево.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
-    "Пирамида.md",
-    "Пирамидальная сортировка.md",
-    "Дин прог.md",
-    "AVL деревья.md",
-    "Дерево поиска.md",
-    "Очередь на списках.md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек-.md",
+    "Стек_.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Быстрая сортировка.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка слиянием.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка по памяти merge sort.md"
   ]
 }
