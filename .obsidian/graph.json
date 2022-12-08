@@ -6,17 +6,25 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "!_! Mind map для 2 коллока алогосы",
+      "color": {
+        "a": 1,
+        "rgb": 6078166
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.26994382022472,
+  "nodeSizeMultiplier": 1.16604025848622,
   "lineSizeMultiplier": 4.18792134831461,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 9.94047619047619,
+  "repelStrength": 11.9572160736834,
   "linkStrength": 1,
-  "linkDistance": 283,
-  "scale": 0.5179261538237873,
-  "close": true
+  "linkDistance": 137,
+  "scale": 0.42842905088133276,
+  "close": false
 }
