@@ -21,6 +21,45 @@
             }
           },
           {
+            "id": "857a1789eeb596cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7039e6df675b49db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Что такое высота дерева.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "346a2d36d1a079a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как считать высоту поддеревьев.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e98ec7fafbd48cd",
             "type": "leaf",
             "state": {
@@ -60,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Виды вращений + описание каждого.md",
+                "file": "Что такое высота дерева.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Виды вращений + описание каждого.md",
+                "file": "Что такое высота дерева.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Виды вращений + описание каждого.md"
+                "file": "Что такое высота дерева.md"
               }
             }
           }
@@ -177,17 +216,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "9e98ec7fafbd48cd",
+  "active": "7039e6df675b49db",
   "lastOpenFiles": [
     "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
     "Как считать высоту поддеревьев.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+    "Виды вращений + описание каждого.md",
     "Что значит бинарное дерево.md",
     "Что такое AVL дерево.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек-.md",
     "Стек_.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Быстрая сортировка.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка слиянием.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка по памяти merge sort.md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка слиянием.md"
   ]
 }
