@@ -3,28 +3,20 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "!_! Mind map для 2 коллока алогосы",
-      "color": {
-        "a": 1,
-        "rgb": 6078166
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.16604025848622,
-  "lineSizeMultiplier": 4.18792134831461,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.1893337294808,
+  "lineSizeMultiplier": 1.16604025848622,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 11.9572160736834,
+  "centerStrength": 0.474337071975043,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 137,
-  "scale": 0.42842905088133276,
+  "linkDistance": 250,
+  "scale": 0.4291102704524906,
   "close": false
 }
