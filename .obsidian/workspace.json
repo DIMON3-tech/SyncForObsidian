@@ -21,12 +21,77 @@
             }
           },
           {
-            "id": "5fc1a9e15dae01c1",
+            "id": "1c97c9d597f7aa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Код сортировки слиянием.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7d2ae802cf75c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка вставками.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ef4f6126b6e96c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5d86e9ac3e6c20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать высоту поддеревьев.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "590cd6f5c615aae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работает функция пересчета баланса.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a97efaab2e36d11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как сбалансировать дерево.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +138,26 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "13457e1a2ed00b29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233d9545b6f42c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Описание сортировки словами без кода merge sort.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как удалить вершину из AVL дерева.md",
+                "file": "Описание сортировки словами без кода merge sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как удалить вершину из AVL дерева.md",
+                "file": "Описание сортировки словами без кода merge sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как удалить вершину из AVL дерева.md"
+                "file": "Описание сортировки словами без кода merge sort.md"
               }
             }
           }
@@ -190,17 +274,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "5262822a80e1dd10",
+  "active": "233d9545b6f42c0f",
   "lastOpenFiles": [
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
-    "Как добавить вершину в AVL дерево.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Свойства AVL дерева (собственные + от бинарного).md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Код сортировки слиянием.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка слиянием.md",
+    "Описание сортировки словами без кода merge sort.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Бинпоиск.md",
-    "Чем левый бин поиск отличается от правого бин поиска.md",
-    "Описание бинпоиска словами без кода.md",
-    "На каком массиве можно применять бинпоиск.md",
-    "Алгоритма левого бин поиска.md",
-    "Алгоритм правого бин поиска.md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка вставками.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать высоту поддеревьев.md",
+    "Как работает функция пересчета баланса.md",
+    "Как сбалансировать дерево.md",
+    "Как удалить вершину из AVL дерева.md"
   ]
 }
