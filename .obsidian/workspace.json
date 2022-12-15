@@ -6,7 +6,6 @@
       {
         "id": "2baa0d9afbf660cc",
         "type": "tabs",
-        "dimension": 33.068257123923125,
         "children": [
           {
             "id": "07073b764253b108",
@@ -14,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "f5aef306b5957459"
+            }
           },
           {
             "id": "3981db2b049d8619",
@@ -28,55 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Виды вращений + описание каждого.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Виды вращений + описание каждого.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "fbcfb39849078219",
-        "type": "tabs",
-        "dimension": 66.93174287607687,
-        "children": [
-          {
-            "id": "d19c8b5a79a764ca",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -0.6,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4411935183365056,
-                  "close": false
-                }
-              }
-            },
-            "group": "f5aef306b5957459"
           }
         ]
       }
@@ -144,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md"
+                "file": "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 5 IDE.md"
               }
             }
           }
@@ -195,17 +150,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d19c8b5a79a764ca",
+  "active": "07073b764253b108",
   "lastOpenFiles": [
+    "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 3 гит (гит кракен).md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
     "ИТМО/Дискра/Дискра конспекты/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
-    "Виды вращений + описание каждого.md",
-    "Большое левое вращение.md",
-    "Малое правое вращение.md",
-    "Большое правое вращение.md",
-    "Малое левое вращение.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Бинпоиск.md",
-    "Свойства AVL дерева (собственные + от бинарного).md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Виды вращений + описание каждого.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Большое левое вращение.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Малое правое вращение.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Большое правое вращение.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Малое левое вращение.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Бинпоиск.md"
   ]
 }
