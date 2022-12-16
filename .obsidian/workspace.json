@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6b45e40557b832f0",
+            "id": "e753fc5fd4c2b40e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Быстрая сортировка.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,123 +34,20 @@
             }
           },
           {
-            "id": "1c97c9d597f7aa67",
+            "id": "8519d48df69e6da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Код сортировки слиянием.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d2ae802cf75c9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка вставками.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ef4f6126b6e96c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5d86e9ac3e6c20c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать высоту поддеревьев.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "590cd6f5c615aae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как работает функция пересчета баланса.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a97efaab2e36d11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как сбалансировать дерево.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5262822a80e1dd10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как удалить вершину из AVL дерева.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6938dce594b33618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как добавить вершину в AVL дерево.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a889b6ddce8beda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Свойства AVL дерева (собственные + от бинарного).md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как добавить элемент в приоритетную очередь.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как добавить элемент в приоритетную очередь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как добавить элемент в приоритетную очередь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md"
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как добавить элемент в приоритетную очередь.md"
               }
             }
           }
@@ -267,17 +164,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3981db2b049d8619",
+  "active": "8519d48df69e6da9",
   "lastOpenFiles": [
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Быстрая сортировка.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Код сортировки слиянием.md",
-    "Описание сортировки словами без кода merge sort.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка слиянием.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка вставками.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать высоту поддеревьев.md",
     "Как работает функция пересчета баланса.md",
-    "Как сбалансировать дерево.md"
+    "Как сбалансировать дерево.md",
+    "Как удалить вершину из AVL дерева.md",
+    "Как добавить вершину в AVL дерево.md"
   ]
 }
