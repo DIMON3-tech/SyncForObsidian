@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "81a3b57c1b6ee5c1",
+            "id": "48f95ab18550b240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Дин прог.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "58c739dc3e8bdad1",
+            "id": "be4d6047084bdd26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Задача Рюкзак.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,7 +48,124 @@
             }
           },
           {
-            "id": "aa10beef6e98ba7c",
+            "id": "9c3243ed12becc66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамидальная сортировка.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b32f842be930220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оценка по памяти пирамидальной сортировки.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a6e1dd7cbf0bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка по времени пирамидальной сортировки.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83a76f7cf05f710b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95ddbac6c6c8c8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работает функция балансировки.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79dcb18bab674857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работает функция балансировки.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3795391e24fe7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать баланс поддеревьев.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e685aea6778931df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Что такое AVL дерево.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bfa6ac2693f6bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05eeea2f677603ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,59 +178,19 @@
             }
           },
           {
-            "id": "01ee9c984daf66b4",
+            "id": "c91107f7f0d064c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как увеличить приоритет в узле.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5d28545e7b6bd93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка сложности алгоритма по времени.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e753fc5fd4c2b40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8519d48df69e6da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как добавить элемент в приоритетную очередь.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Задача Рюкзак.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Задача Рюкзак.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Задача Рюкзак.md"
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md"
               }
             }
           }
@@ -230,17 +307,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "58c739dc3e8bdad1",
+  "active": "3981db2b049d8619",
   "lastOpenFiles": [
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Дин прог.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
-    "Как увеличить приоритет в узле.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка сложности алгоритма по времени.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как добавить элемент в приоритетную очередь.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Быстрая сортировка.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Код сортировки слиянием.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Сортировка вставками.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамидальная сортировка.md",
+    "Оценка по памяти пирамидальной сортировки.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка по времени пирамидальной сортировки.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Циклический список.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+    "Как работает функция балансировки.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать баланс поддеревьев.md"
   ]
 }
