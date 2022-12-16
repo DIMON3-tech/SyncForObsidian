@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "48f95ab18550b240",
+            "id": "18cad50276168a84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на односвязном списке.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "be4d6047084bdd26",
+            "id": "2c22414edec47722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
+                "file": "Принцип работы макстека.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "9c3243ed12becc66",
+            "id": "8bdde62d9382875d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамидальная сортировка.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как удалить элемент из стека (с псевдокодом).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,111 +60,7 @@
             }
           },
           {
-            "id": "4b32f842be930220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Оценка по памяти пирамидальной сортировки.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3a6e1dd7cbf0bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка по времени пирамидальной сортировки.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83a76f7cf05f710b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95ddbac6c6c8c8b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как работает функция балансировки.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79dcb18bab674857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как работает функция балансировки.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3795391e24fe7bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать баланс поддеревьев.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e685aea6778931df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Что такое AVL дерево.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bfa6ac2693f6bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05eeea2f677603ac",
+            "id": "a9e4334c4e68b7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,19 +73,20 @@
             }
           },
           {
-            "id": "c91107f7f0d064c1",
+            "id": "48f95ab18550b240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
+                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "Принцип работы макстека.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+                "file": "Принцип работы макстека.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md"
+                "file": "Принцип работы макстека.md"
               }
             }
           }
@@ -306,17 +203,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3981db2b049d8619",
+  "active": "2c22414edec47722",
   "lastOpenFiles": [
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на односвязном списке.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как удалить элемент из стека (с псевдокодом).md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамидальная сортировка.md",
     "Оценка по памяти пирамидальной сортировки.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Оценка по времени пирамидальной сортировки.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Циклический список.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md",
-    "Как работает функция балансировки.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как считать баланс поддеревьев.md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/AVL деревья.md"
   ]
 }
