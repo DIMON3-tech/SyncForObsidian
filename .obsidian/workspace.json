@@ -21,77 +21,12 @@
             }
           },
           {
-            "id": "37670c8f895bce6a",
+            "id": "78221db1fb940102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Импликанта.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a84bd0459a814a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорема разложения для ДНФ.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32ba3b8cb4c302e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "СДНФ.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29bd3a9ccaf0f681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Минтерм.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b00bdc99e57e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "КНФ.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7afb517d42c38329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДНФ.md",
+                "file": "Избыточность схемы алфавитного кодирования.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Импликанта.md",
+                "file": "Избыточность схемы алфавитного кодирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Импликанта.md",
+                "file": "Избыточность схемы алфавитного кодирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Импликанта.md"
+                "file": "Избыточность схемы алфавитного кодирования.md"
               }
             }
           }
@@ -216,17 +151,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "37670c8f895bce6a",
+  "active": "78221db1fb940102",
   "lastOpenFiles": [
     "ИТМО/Дискра/!_! Коллок 2 дискра.md",
-    "Импликанта.md",
-    "Теорема разложения для ДНФ.md",
-    "СДНФ.md",
-    "Минтерм.md",
-    "КНФ.md",
-    "ДНФ.md",
-    "В чем отличие функции и формулы.md",
-    "Число булевых функций n аргументов.md",
-    "Теорема склеивания.md"
+    "Необходимо условие декодируемости.md",
+    "Префиксная или суффиксная схема.md",
+    "Есть равно.md",
+    "Префиксная/суффиксная схема.md",
+    "Однозначно декодируемая схема.md",
+    "Достаточные условия декодируемости.md",
+    "Кодирование.md",
+    "Частично определенная (недоопределенная) функция.md",
+    "Перечислить полные системы из одной функции.md"
   ]
 }
