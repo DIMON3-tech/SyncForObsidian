@@ -4,93 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2baa0d9afbf660cc",
+        "id": "6472fbd02085a1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "3981db2b049d8619",
+            "id": "440550f9adfe615e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d29d607c01b2acf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "18cad50276168a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на односвязном списке.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c22414edec47722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Принцип работы макстека.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bdde62d9382875d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Как удалить элемент из стека (с псевдокодом).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9e4334c4e68b7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48f95ab18550b240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -159,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -210,17 +128,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3981db2b049d8619",
+  "active": "440550f9adfe615e",
   "lastOpenFiles": [
+    "ИТМО/Прога/6 лаба план парсера.md",
+    "Парсинг аргументов.md",
+    "Есть равно.md",
+    "Лучший/Средний/Худший случаи insertion sort.md",
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
     "Алгоритм правого бин поиска.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Бинпоиск.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/!_! Mind map для 2 коллока алогосы.md",
     "Принцип работы макстека.md",
     "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на односвязном списке.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как удалить элемент из стека (с псевдокодом).md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Приоритетная очередь.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Стек на массиве.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамида.md",
-    "ИТМО/Алгосы/Майнд карта для 2 коллока/Пирамидальная сортировка.md"
+    "ИТМО/Алгосы/Майнд карта для 2 коллока/Как удалить элемент из стека (с псевдокодом).md"
   ]
 }
