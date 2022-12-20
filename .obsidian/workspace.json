@@ -21,19 +21,85 @@
             }
           },
           {
-            "id": "e3824d2c802e18fd",
+            "id": "37670c8f895bce6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "В чем отличие функции и формулы.md",
+                "file": "Импликанта.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a84bd0459a814a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорема разложения для ДНФ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ba3b8cb4c302e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СДНФ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29bd3a9ccaf0f681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Минтерм.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66b00bdc99e57e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КНФ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7afb517d42c38329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДНФ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "Импликанта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "Импликанта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md"
+                "file": "Импликанта.md"
               }
             }
           }
@@ -150,17 +216,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "440550f9adfe615e",
+  "active": "37670c8f895bce6a",
   "lastOpenFiles": [
-    "В чем отличие функции и формулы.md",
     "ИТМО/Дискра/!_! Коллок 2 дискра.md",
-    "Теорема склеивания.md",
-    "Закон инволюции.md",
-    "Закон единственности дополнения.md",
-    "Булево множество.md",
-    "Арность операции (функции).md",
-    "Булева алгебра определение  аксиомы законы только перечислить.md",
-    "Определение высказывания.md",
-    "Отождествление переменных в функции f.md"
+    "Импликанта.md",
+    "Теорема разложения для ДНФ.md",
+    "СДНФ.md",
+    "Минтерм.md",
+    "КНФ.md",
+    "ДНФ.md",
+    "В чем отличие функции и формулы.md",
+    "Число булевых функций n аргументов.md",
+    "Теорема склеивания.md"
   ]
 }
