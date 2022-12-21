@@ -11,12 +11,15 @@
             "id": "440550f9adfe615e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 327.5162475290434,
+                  "y": -412.65394378249624,
+                  "zoom": -0.16917549474479518,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +129,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md"
+                "file": "Untitled.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,15 +153,15 @@
   },
   "active": "440550f9adfe615e",
   "lastOpenFiles": [
+    "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+    "Untitled.md",
     "Монотонная функция.md",
     "Самодвойственная функция. Число самодвойственных функций n аргументов..md",
     "Принцип поиска и исправление ошибок в коде Хэмминга.md",
-    "ИТМО/Дискра/!_! Коллок 2 дискра.md",
     "Принцип построение кода Хэмминга.md",
     "Расстояние Хэмминга.md",
     "Отличие блочного кодирования Хаффмана.md",
     "Принцип кода Шеннона  Фано.md",
-    "Принцип кода Хаффмана.md",
-    "Формула подсчета избыточности схемы.md"
+    "Принцип кода Хаффмана.md"
   ]
 }
