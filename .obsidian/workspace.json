@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf97889a821a1159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Равномерная схема.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Равномерная схема.md",
+                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Равномерная схема.md",
+                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Равномерная схема.md"
+                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md"
               }
             }
           }
@@ -162,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf97889a821a1159",
+  "active": "440550f9adfe615e",
   "lastOpenFiles": [
+    "Необходимо условие декодируемости.md",
     "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+    "Равномерная схема.md",
     "Булева алгебра (определение + аксиомы/законы только перечислить).md",
     "Untitled.canvas",
     "Untitled.md",
     "Монотонная функция.md",
     "Самодвойственная функция. Число самодвойственных функций n аргументов..md",
     "Принцип поиска и исправление ошибок в коде Хэмминга.md",
-    "Принцип построение кода Хэмминга.md",
-    "Расстояние Хэмминга.md",
-    "Отличие блочного кодирования Хаффмана.md"
+    "Принцип построение кода Хэмминга.md"
   ]
 }
