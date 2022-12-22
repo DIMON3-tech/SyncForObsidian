@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6472fbd02085a1eb",
+        "id": "40b49ec86b3a2d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "b33df7229150261b",
+            "id": "ba22b7cfcbc37b20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "ИТМО/Прога/Вопросы по проге, на которые я не знаю ответа.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,45 +21,23 @@
             }
           },
           {
-            "id": "cede8ae14a808531",
+            "id": "87f352345efac3ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Самодвойственная функция. Число самодвойственных функций n аргументов..md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bea558921f0c861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тупиковая ДНФ.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc4cd355bf0a9d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Минимизация булевой формулы.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
+                "viewState": {
+                  "x": 15.645477771256404,
+                  "y": 284.7499238460671,
+                  "zoom": -0.8085054668343677,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md"
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas"
               }
             }
           }
@@ -187,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b33df7229150261b",
+  "active": "87f352345efac3ec",
   "lastOpenFiles": [
-    "Самодвойственная функция. Число самодвойственных функций n аргументов..md",
-    "ИТМО/Дискра/!_! Коллок 2 дискра.md",
+    "ИТМО/Прога/Вопросы по проге, на которые я не знаю ответа.md",
+    "ИТМО/Прога/6 лаба план парсера.md",
+    "Untitled.md",
+    "ИТМО/Прога/Структура 6 лабы прога.canvas",
     "Минимизация булевой формулы.md",
     "Тупиковая ДНФ.md",
+    "Самодвойственная функция. Число самодвойственных функций n аргументов..md",
+    "ИТМО/Дискра/!_! Коллок 2 дискра.md",
     "Простая импликанта.md",
-    "ИТМО/Девтулзы/Лекции Разраб ПО/Лекция методологии разработки/Scrum.md",
-    "ИТМО/Девтулзы/Лекции Разраб ПО/Лекция методологии разработки/Методологии разработки.md",
-    "ИТМО/Девтулзы/Лабы Разраб ПО/Лаба 4 гит (трекинг задач).md",
-    "Необходимо условие декодируемости.md",
-    "Равномерная схема.md"
+    "ИТМО/Девтулзы/Лекции Разраб ПО/Лекция методологии разработки/Scrum.md"
   ]
 }
