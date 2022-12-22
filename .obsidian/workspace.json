@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Минимизация булевой формулы.md",
+                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Минимизация булевой формулы.md",
+                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Минимизация булевой формулы.md"
+                "file": "ИТМО/Дискра/!_! Коллок 2 дискра.md"
               }
             }
           }
@@ -175,11 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc4cd355bf0a9d10",
+  "active": "b33df7229150261b",
   "lastOpenFiles": [
+    "Минимизация булевой формулы.md",
     "Тупиковая ДНФ.md",
     "ИТМО/Дискра/!_! Коллок 2 дискра.md",
-    "Минимизация булевой формулы.md",
     "Простая импликанта.md",
     "ИТМО/Девтулзы/Лекции Разраб ПО/Лекция методологии разработки/Scrum.md",
     "ИТМО/Девтулзы/Лекции Разраб ПО/Лекция методологии разработки/Методологии разработки.md",
