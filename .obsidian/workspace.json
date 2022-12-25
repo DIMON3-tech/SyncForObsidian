@@ -28,16 +28,26 @@
               "state": {
                 "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
                 "viewState": {
-                  "x": -618.8035970236971,
-                  "y": 364.09175902162355,
-                  "zoom": -0.484328073982894,
+                  "x": -657.7476940922584,
+                  "y": 396.3186166263345,
+                  "zoom": -0.8094590195605147,
                   "snapToGrid": false
                 }
               }
             }
+          },
+          {
+            "id": "a9036607ac8eeef9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f352345efac3ec",
+  "active": "a9036607ac8eeef9",
   "lastOpenFiles": [
     "ИТМО/Прога/Вопросы по проге, на которые я не знаю ответа.md",
     "ИТМО/Прога/6 лаба план парсера.md",
