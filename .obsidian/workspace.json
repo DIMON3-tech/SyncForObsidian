@@ -11,8 +11,16 @@
             "id": "6e40c5ad11d914e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
+                "viewState": {
+                  "x": -261.2015877570045,
+                  "y": -18.57384438895547,
+                  "zoom": -0.7717406712396327,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ]
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ИТМО/Прога/Структура 6 лабы прога.canvas"
+              }
             }
           }
         ],
