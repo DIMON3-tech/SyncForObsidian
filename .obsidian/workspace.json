@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ИТМО/Планирование/Экзамены 1 семестр.canvas",
                 "viewState": {
-                  "x": 354.96593309898924,
-                  "y": -341.63288521204566,
-                  "zoom": -0.22151249272127946,
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.48464391549428304,
                   "snapToGrid": false
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ИТМО/Планирование/Экзамены 1 семестр.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ИТМО/Планирование/Экзамены 1 семестр.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "ИТМО/Планирование/Экзамены 1 семестр.canvas"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "6e40c5ad11d914e4",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "ИТМО/Прога/Структура 6 лабы прога.canvas",
     "ИТМО/Дискра/!_! Коллок 2 дискра.md",
     "ИТМО/Дискра/Дискра конспекты/Бинарные отношения/!_! Термины с коллоквиума 1 б.о.md",
@@ -161,7 +162,6 @@
     "ИТМО/Дискра/Дискра конспекты/Бинарные отношения/Термины для коллока/Обратное отношение.md",
     "ИТМО/Прога/Вопросы по проге, на которые я не знаю ответа.md",
     "ИТМО/Прога/6 лаба план парсера.md",
-    "Untitled.md",
-    "Минимизация булевой формулы.md"
+    "Untitled.md"
   ]
 }
